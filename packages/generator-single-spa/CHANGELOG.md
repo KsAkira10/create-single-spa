@@ -1,5 +1,11 @@
 # generator-single-spa
 
+## 8.0.1
+
+### Patch Changes
+
+- [#461](https://github.com/single-spa/create-single-spa/pull/461) [`c543908`](https://github.com/single-spa/create-single-spa/commit/c5439082e0c757b93c2c64575515fcaa31e81d27) Thanks [@jmrsnt](https://github.com/jmrsnt)! - fix: Fails when creating angular application/parcel
+
 ## 8.0.0
 
 ### Major Changes
